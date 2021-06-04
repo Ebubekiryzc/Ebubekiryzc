@@ -4,7 +4,7 @@
 - :thinking: I’m looking for help with Java/Spring.
 - :mailbox: How to reach me: ebubekiryazi@gmail.com
 
-[![Ebubekir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebubekiryzc&theme=tokyonight&show_icons=true)](https://github.com/ebubekiryzc/github-readme-stats)
+<p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=Ebubekiryzc&show_icons=true&theme=radical" alt="Ebubekiryzc"><img src="https://github-readme-stats.vercel.app/api?username=Ebubekiryzc&show_icons=true&theme=radical" alt="Ebubekiryzc" /></a> </p> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ebubekiryzc&label=Profile%20views&color=0e75b6&style=flat" alt="Ebubekiryzc" /> </p>
 <!--
